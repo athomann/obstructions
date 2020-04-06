@@ -1,0 +1,11 @@
+.idea/
+.DS_Store
+node-tools/node_modules
+currentVersion.*.txt
+node_modules
+*.css.map
+**/build/**
+npm-debug.log
+yarn-error.log
+junit.xml
+images/
